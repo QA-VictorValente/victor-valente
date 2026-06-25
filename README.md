@@ -1,34 +1,82 @@
 # Olá, eu sou Victor Valente 👋
 
-QA Analyst com mais de 4 anos de experiência em garantia da qualidade de software.
+Analista de Qualidade de Software (QA) com mais de 4 anos de experiência em garantia da qualidade, testes funcionais, validação de APIs, automação de testes e análise de dados.
 
-## 🚀 Sobre mim
+Atuo garantindo a qualidade de aplicações através da elaboração de cenários de teste, execução de testes manuais e automatizados, validação de regras de negócio e acompanhamento de defeitos em ambientes ágeis.
 
-- Experiência com testes funcionais, regressão e integração
-- Validação de APIs REST utilizando Postman
-- Consultas SQL para validação de dados
-- Automação de testes com Cypress, Selenium e Robot Framework
-- Atuação em equipes ágeis (Scrum)
+---
 
-## 🛠️ Tecnologias
+## 🚀 Minha Atuação
+
+✔ Planejamento de Testes
+
+✔ Testes Funcionais
+
+✔ Testes de Regressão
+
+✔ Testes de API
+
+✔ Automação com Cypress
+
+✔ SQL para Validação de Dados
+
+✔ Gestão e Reporte de Defeitos
+
+✔ Homologação com Áreas de Negócio
+
+✔ Metodologias Ágeis (Scrum/Kanban)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Testes
+
+- Testes Funcionais
+- Testes Exploratórios
+- Testes de Regressão
+- Testes de Integração
+- Homologação
+
+### Automação
 
 - Cypress
+- Robot Framework
 - Selenium
+
+### APIs
+
 - Postman
+- REST API
+- Newman
+
+### Banco de Dados
+
 - SQL
+- Oracle
+- PostgreSQL
+
+### Gestão
+
 - Jira
 - Azure DevOps
-- Robot Framework
-- JavaScript
+- Git
+- GitHub
 
-## 📚 Atualmente estudando
+---
+
+## 📚 Atualmente Estudando
 
 - ISTQB CTFL
-- Automação avançada com Cypress
-- Boas práticas de QA
+- Boas práticas de Quality Assurance
+- Estratégias de Automação de Testes
+- Cypress Avançado
+
+---
 
 ## 📫 Contato
 
-LinkedIn: [https://www.linkedin.com/in/victor-valente-59a3161a4/]
+📧 victorvalente456@gmail.com
 
-Email: victorvalente456@gmail.com
+💼 LinkedIn:
+linkedin.com/in/victor-valente-59a3161a4
